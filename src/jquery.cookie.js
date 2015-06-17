@@ -112,3 +112,7 @@
 	};
 
 }));
+/*
+quick custom workaround to ignore sourcemap issues
+*/
+//# sourceMappingURL=jquery.cookie.js.map
